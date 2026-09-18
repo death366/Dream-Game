@@ -1,0 +1,5 @@
+*.gd filter=git-crypt diff=git-crypt
+*.tscn filter=git-crypt diff=git-crypt
+*.tres filter=git-crypt diff=git-crypt
+*.godot filter=git-crypt diff=git-crypt
+.gitattributes !filter !diff
